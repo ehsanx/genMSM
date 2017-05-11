@@ -2,7 +2,7 @@
 Stata do file to simulate data suitable for fitting Marginal Structural Model.
 
 #### Maintainer: *Ehsan Karim* 
-I am a big fan of *scientific collaboration*. Feel free to [contact me](http://www.ehsankarim.com) to discuss your causal inference related projects for potential collaboration.
+I am a big fan of **scientific collaboration**. Feel free to [contact me](http://www.ehsankarim.com) to discuss your causal inference related projects for potential collaboration.
 
 ### Stata code to generate data suitable for Marginal Structural Cox Model fit
 * This do file simulates survival data suitable for fitting Marginal Structural Model.
