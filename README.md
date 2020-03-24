@@ -11,7 +11,7 @@ I am a big fan of **scientific collaboration**. Feel free to [contact me](http:/
 * Abstract
 [Generating survival data for fitting marginal structural Cox models using Stata and comparing the fit](https://ideas.repec.org/p/boc/scon12/16.html)
 * Download Slides
-[Stata conference 2012](http://www.stata.com/meeting/sandiego12/abstracts/)
+[Stata conference 2012](https://www.stata.com/meeting/sandiego12/materials/sd12_karim.pdf)
 
 ### Author 
 * Ehsan Karim :octocat: (stata porting from the [SAS](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/148/2012/10/simulate_snaftm.txt) code). Feel free to [report](http://www.ehsankarim.com/) any errors / update suggestions. 
