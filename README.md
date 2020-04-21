@@ -16,6 +16,10 @@ I am a big fan of **scientific collaboration**. Feel free to [contact me](http:/
 ### Author 
 * Ehsan Karim :octocat: (stata porting from the [SAS](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/148/2012/10/simulate_snaftm.txt) code). Feel free to [report](http://www.ehsankarim.com/) any errors / update suggestions. 
 
+### Sequence at which measurements are taken in an interval
+
+![image](measurements.png)
+
 ### Original Papers
 - [x] Young J.G., Hernan M.A., Picciotto S., and Robins J.M. [Relation between three classes of structural models for the effect of a time-varying exposure on survival](http://link.springer.com/article/10.1007/s10985-009-9135-3). Lifetime Data Analysis, 16(1):71-84, 2010. 
 - [ ] Young, Jessica G., et al. Simulation from structural survival models under complex time-varying data structures. JSM proceedings, section on statistics in epidemiology. American Statistical Association, Denver, CO (2008)
