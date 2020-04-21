@@ -18,7 +18,7 @@ I am a big fan of **scientific collaboration**. Feel free to [contact me](http:/
 
 ### Sequence at which measurements are taken in an interval
 
-![image](measurements.png)
+![image](measurement.png)
 
 ### Original Papers
 - [x] Young J.G., Hernan M.A., Picciotto S., and Robins J.M. [Relation between three classes of structural models for the effect of a time-varying exposure on survival](http://link.springer.com/article/10.1007/s10985-009-9135-3). Lifetime Data Analysis, 16(1):71-84, 2010. 
